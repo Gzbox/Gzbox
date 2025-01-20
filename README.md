@@ -1,1 +1,1 @@
-<img src="./images/logo.png?raw=true" width = "'100%'" align=center />
+<img src="./images/logo.png?raw=true" width = "320px" align=center />
